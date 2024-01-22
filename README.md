@@ -1,8 +1,9 @@
+# Description
 Hangman is a paper pencil guessing game for two or more players. One player thinks of a word and the other tries to guess it by suggesting the letters. 
 The word to guess is represented by a row of dashes, giving the number of letters. 
 If the guessing player suggests a letter which occurs int word, the program writes it in all its correct positions. 
 If the suggested letter does not occur in the word, the other player draws one element of the hangman diagram as a tally mark.
-Functionalities
+# Functionalities
 iostream: - Input-output stream, member function to insert data into a stream (output) or extract data from a stream (input), and to control the format of data that you insert or extract [ #include <iostream>]. 
 
 fstream: - File stream, use to move data from a file saved in the system
